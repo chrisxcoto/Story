@@ -1,1 +1,5 @@
 It was the time of excess, it was the time of frugality.
+
+
+
+to Save and quit once merging a branch, you you need to type :q! on vin once you merge the branch and vim pops up
